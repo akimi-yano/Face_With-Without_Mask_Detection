@@ -1,6 +1,8 @@
 # YOLOv3 vs YOLOv4 Object Detection Comparison for Face With/Without Mask Detection
 
-This project compares the performance of **YOLOv3** and **YOLOv4** object detection models on two sample videos, by training machine learning models that classify a face with or without mask.
+This project compares the performance of **YOLOv3** and **YOLOv4** object detection models on two sample videos, by training machine learning models that classify a face with or without mask. The below image is an object detection using YOLOv4:
+
+![](./visuals/mask_no_mask.png?raw=true)
 
 ## 🔍 Models Compared
 - **YOLOv3**: Known for its speed and reliability in real-time applications.
